@@ -36,7 +36,7 @@
 <p align="left">
   <img src="https://n8n.io/favicon.ico" alt="N8N" width="40" height="40"/> N8N  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="20" height="20"/> Blender  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/FreeCAD-logo.svg" alt="FreeCAD" width="20" height="20"/> FreeCAD  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/FreeCAD-logo.svg" width="20" height="20"/> FreeCAD  
 </p>
 
 ---
