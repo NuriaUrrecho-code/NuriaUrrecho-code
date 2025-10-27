@@ -28,15 +28,15 @@
 
 ### 🗄️ Bases de datos
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> MongoDB  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> MongoDB  
 </p>
 
 ### ⚙️ Herramientas y plataformas
 <p align="left">
   <img src="https://n8n.io/favicon.ico" alt="N8N" width="40" height="40"/> N8N  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> Blender  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/FreeCAD-logo.svg" alt="FreeCAD" width="40" height="40"/> FreeCAD  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="20" height="20"/> Blender  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/FreeCAD-logo.svg" alt="FreeCAD" width="20" height="20"/> FreeCAD  
 </p>
 
 ---
