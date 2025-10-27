@@ -55,15 +55,3 @@
 - 🧩 Priorizo la **organización, comunicación y mejora continua**.  
 - 💪 Me esfuerzo por mantener una **actitud positiva y colaborativa** en cada proyecto.  
 
----
-
-## 📫 Contacto
-
-📍 Valencia, España  
-📧 **nuria.urrecho@example.com**  
-🌐 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/nuriaurrecho)
-
----
-
-> 💬 *“La mejor forma de aprender es hacer.”*
-
