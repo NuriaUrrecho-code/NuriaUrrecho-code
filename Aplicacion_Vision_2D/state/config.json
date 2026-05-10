@@ -1,0 +1,51 @@
+{
+  "project_title": "Posicionamiento planar de mandarinas",
+  "authors": [
+    "Carla Castellanos",
+    "Gabriel Arnedo",
+    "Nuria Urrecho",
+    "Pablo Gomez"
+  ],
+  "camera_index": 0,
+  "mqtt_broker": "broker.emqx.io",
+  "mqtt_port": 1883,
+  "mqtt_topic": "richi5/mandarinas/posicion",
+  "object_radius_cm": 2.0,
+  "camera_height_cm": 37.0,
+  "height_correction_mode": "manual_camera_height",
+  "detection_mode": "automatic",
+  "tracking_mode": "first_frame",
+  "opencv_tracker": "kcf",
+  "target_world": [
+    15.0,
+    10.0
+  ],
+  "hsv_lower": [
+    5,
+    100,
+    100
+  ],
+  "hsv_upper": [
+    20,
+    255,
+    255
+  ],
+  "world_points_cm": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      29.7,
+      0.0
+    ],
+    [
+      29.7,
+      21.0
+    ],
+    [
+      0.0,
+      21.0
+    ]
+  ]
+}

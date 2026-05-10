@@ -1,0 +1,57 @@
+{
+  "homography_path": "calibration/H.npy",
+  "image_points": [
+    [
+      262,
+      155
+    ],
+    [
+      1018,
+      53
+    ],
+    [
+      1114,
+      656
+    ],
+    [
+      203,
+      686
+    ]
+  ],
+  "world_points_cm": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      29.7,
+      0.0
+    ],
+    [
+      29.7,
+      21.0
+    ],
+    [
+      0.0,
+      21.0
+    ]
+  ],
+  "updated_at": "2026-03-31T12:18:33",
+  "homography_method": "RANSAC",
+  "homography_ransac_threshold_px": 3.0,
+  "homography_inliers": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "homography_reprojection_error_world_units": 1.4791058986675927e-15,
+  "homography_inverse_reprojection_error_px": 0.0,
+  "camera_calibration_rms": 3.7261548615612834,
+  "camera_calibration_mean_reprojection_error_px": 0.4698983599734726,
+  "valid_calibration_images": 11,
+  "intrinsics_path": "calibration/K.npy",
+  "distortion_path": "calibration/dist.npy",
+  "calibration_images": 21,
+  "camera_index": 0
+}

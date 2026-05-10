@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Aplicacion_Vision_2D/state/logs/
