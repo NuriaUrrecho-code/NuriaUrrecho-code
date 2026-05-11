@@ -13,8 +13,7 @@ I am currently developing skills in:
 * Artificial Intelligence
 * Machine Learning & Deep Learning
 * Computer Vision
-* Industrial Robotics
-* Industrial Automation
+* Industrial Automation and Robotics
 * Intelligent Agents & Smart Systems
 * Embedded Systems
 * Industrial Network Protocols (TCP/IP, UDP)
@@ -27,7 +26,26 @@ I enjoy building technological solutions that combine software, automation and i
 
 ---
 
-## 💻 Technologies & Tools
+## 💻 About This GitHub
+
+This GitHub works as a portfolio where I upload projects, experiments and developments related to different areas of technology and engineering.
+
+Here you will find projects involving:
+
+* Software development
+* Artificial intelligence and machine learning
+* Robotics and automation
+* Hardware control and embedded systems
+* Industrial simulation
+* Computer vision
+* Databases and backend development
+* System modeling and optimization
+
+The objective of this repository is to document my learning process, explore new technologies and continue improving my technical and engineering skills through practical projects.
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### Programming Languages
 
@@ -39,7 +57,6 @@ I enjoy building technological solutions that combine software, automation and i
 
 ### Robotics & Automation
 
-* RoboDK
 * ROS / ROS2
 * CoppeliaSim
 * Industrial Automation
@@ -48,13 +65,11 @@ I enjoy building technological solutions that combine software, automation and i
 ### Simulation & Modeling
 
 * FlexSim
+* RoboDK
 * MATLAB Simulink
-* System Modeling
-* Industrial Simulation
 
 ### Development & Databases
 
-* GitHub
 * PostgreSQL
 * Linux
 * Bash
