@@ -97,7 +97,7 @@ Como complemento a la simulación, el proyecto incorpora una demostración físi
 * 📦 Simulación de inspección de pallets.
 * ✅ Validación previa a la expedición.
 
-Esta parte aporta una capa adicional de realismo y permite validar procesos de inspección industrial en un entorno físico.
+Esta parte aporta una capa adicional de realismo y permite validar procesos de inspección industrial en un entorno físico. En la imagen del repositorio (vision_calidad.jpeg) se puede ver cómo se realizó este montaje.
 
 ---
 
